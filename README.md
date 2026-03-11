@@ -2,6 +2,9 @@
 
 A Spotify-inspired web music player built using HTML, CSS, and JavaScript.
 
+## Live Demo
+https://yourusername.github.io/spotify-web-player-clone/
+
 ## Features
 - Play / Pause functionality
 - Progress bar with scrubbing
